@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+< vue 3와 스프링 부트로 시작하는  웹 개발 철저 입문 >
+p146 - p158    vue3을 이용한 프론트엔드 개발 
+프로젝트 생성
+https://github.com/dino-21/1_vue-memo
